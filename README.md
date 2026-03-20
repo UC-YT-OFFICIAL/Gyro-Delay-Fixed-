@@ -92,19 +92,13 @@ The module tweaks system parameters related to:
 4. Click **Uninstall**
 5. **Reboot**
 
-### Via Terminal:
-```bash
-su
-rm -rf /data/adb/modules/gyro_delay_fix
-reboot
-
 ## 👨‍💻 Credits & Contact
 
 **Developed by:** UC YT OFFICIAL
 
 ### 📺 YouTube Channel
 Subscribe for updates and more modules:
-🔗 https://m.youtube.com/channel/UCiRljUMJMGQNarVHH2PjCYw
+🔗 (https://m.youtube.com/channel/UCiRljUMJMGQNarVHH2PjCYw)
 
 ### 📱 Telegram Group
 Join for support and latest updates:
