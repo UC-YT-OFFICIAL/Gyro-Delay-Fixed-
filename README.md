@@ -102,4 +102,4 @@ Subscribe for updates and more modules:
 
 ### 📱 Telegram Group
 Join for support and latest updates:
-🔗 https://t.me/+SStU2a74TioyMWY1
+https://t.me/+ypDU6ivVFmk0Njk1
